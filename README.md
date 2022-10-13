@@ -1,4 +1,4 @@
-# glowy-clock
+## Glow clock built with HTML, CSS, and avascript
 
 
 
