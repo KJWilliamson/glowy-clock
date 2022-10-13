@@ -1,4 +1,4 @@
-## Glow clock built with HTML, CSS, and avascript
+## Glow clock built with HTML, CSS, and Javascript
 
 
 
